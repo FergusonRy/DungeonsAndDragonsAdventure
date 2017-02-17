@@ -1,0 +1,23 @@
+Long Sword,6,slashing,5
+Short Sword,5,piercing,4
+great Sword,7,slashing,8
+Hand Axe,10,slashing,5
+Great Axe,11,slashing,9
+Club,20,bludgening,4
+Mace,15,bludgening,5
+Great Club,21,bludgening,8
+Dagger,10,piercing,3
+Sling,100,bludgening,20,0,3
+Hand Crossbow,10,piercing,25,0,4
+Crossbow,10,piercing,50,0,6
+Short Bow,9,piercing,55,0,7
+Long Bow,10,piercing,100,0,10
+Cloth Armor,11,30
+Tree Bark Armor,12,15
+Leather Armor,13,25
+Studded Leather Armor,14,30
+Chain Mail,15,35
+Half Plate,16,40
+Dragon Mail,17,50
+Plate Mail,18,60
+Dragon Plate,20,100

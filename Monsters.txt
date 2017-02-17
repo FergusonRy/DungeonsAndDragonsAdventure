@@ -1,0 +1,10 @@
+Orc,25,12,20,16,none,1
+goblin,15,6,10,14,none,1
+Giant Rat,10,4,10,12,none,1
+Skeleton Warrior,25,8,15,17,bludgening,1
+Zombie,30,6,20,13,slashing,1
+Thieves Cult Member,15,4,15,15,none,1
+Mama Rat,70,8,50,12,none,1
+Thieves Cult Leader,50,12,60,18,none,1
+Ogre,60,8,35,12,none,2
+Baby Dragon,100,12,60,16,slashing,2
